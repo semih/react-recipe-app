@@ -6,7 +6,7 @@ export const recipeData = [
       "http://www.closetcooking.com/2011/04/jalapeno-popper-grilled-cheese-sandwich.html",
     recipe_id: "35382",
     image_url:
-      "http://static.food2fork.com/Jalapeno2BPopper2BGrilled2BCheese2BSandwich2B12B500fd186186.jpg"
+      "https://www.closetcooking.com/wp-content/uploads/2013/04/JalapenoPopperGrilledCheeseSandwich1500.jpg",
   },
   {
     publisher: "The Pioneer Woman",
@@ -14,7 +14,8 @@ export const recipeData = [
     source_url:
       "http://thepioneerwoman.com/cooking/2011/06/perfect-iced-coffee/",
     recipe_id: "47024",
-    image_url: "http://static.food2fork.com/icedcoffee5766.jpg"
+    image_url:
+      "https://thepioneerwoman.com/wp-content/uploads/2013/06/iced3.jpg?resize=426%2C640",
   },
   {
     publisher: "The Pioneer Woman",
@@ -22,6 +23,7 @@ export const recipeData = [
     source_url:
       "http://thepioneerwoman.com/cooking/2008/06/crash-hot-potatoes/",
     recipe_id: "47319",
-    image_url: "http://static.food2fork.com/CrashHotPotatoes5736.jpg"
-  }
+    image_url:
+      "https://thepioneerwoman.com/wp-content/uploads/2018/01/screen-shot-2018-01-11-at-9-37-47-am.png?resize=330%2C330",
+  },
 ];
